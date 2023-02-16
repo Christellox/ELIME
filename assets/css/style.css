@@ -177,7 +177,7 @@ h6 {
 }
 
 .get-started-btn:hover {
-  background: #ffbb38;
+  background: #c551ff;
   color: #343a40;
 }
 
@@ -234,7 +234,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #ffc451;
+  color: #c551ff;
 }
 
 .navbar .dropdown ul {
